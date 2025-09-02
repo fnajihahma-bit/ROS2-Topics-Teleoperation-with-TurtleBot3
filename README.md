@@ -7,6 +7,7 @@
 
 ## 📁 Repository Structure
 
+```markdown
 /week2_task_ros2/
 ├── README.md
 ├── img/
@@ -21,7 +22,7 @@
 ├── reflection.pdf
 └── video/
 └── teleop_demo.mp4
-
+```
 ---
 
 ## 🛠 Requirements
